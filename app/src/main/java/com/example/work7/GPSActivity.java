@@ -50,6 +50,7 @@ public class GPSActivity extends AppCompatActivity implements Handler.Callback {
     private final int MENU_DIS=3;
 
     //是本人无误
+    //小宇是测试啊
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
