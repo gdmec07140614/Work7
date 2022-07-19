@@ -49,6 +49,8 @@ public class GPSActivity extends AppCompatActivity implements Handler.Callback {
     private final int MENU_GPS=1;
     private final int MENU_DIS=3;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
